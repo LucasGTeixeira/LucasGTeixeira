@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGTeixeira&layout=compact&langs_count=7&theme=dark"/>
-<img height="200em" src="https://i.chzbgr.com/full/7712992512/h50923CC0/my-dating-profile-almost-done"/>
+<img height="180em" src="https://i.chzbgr.com/full/7712992512/h50923CC0/my-dating-profile-almost-done"/>
 </div>
 
 
