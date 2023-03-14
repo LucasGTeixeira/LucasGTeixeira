@@ -25,5 +25,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://www.linkedin.com/in/lucas-teixeira-5bb172239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGTeixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGTeixeira&show_icons=true&theme=dark&include_all_commits=true"/>
   </div>
