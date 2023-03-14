@@ -1,10 +1,19 @@
-### Olá! Eu sou o Txera!
+<h1 align="center">Olá, Eu sou o<a href="https://www.blackcater.win/" target="_blank">Txera!</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<a href="https://github.com/LucasGTeixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-oliveira1&layout=compact&langs_count=7&theme=dark"/>
+<p align="center">
+  <img height="200em" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-16.gif"/>
+</p>
+
+
+<div align="center">
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGTeixeira&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGTeixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
